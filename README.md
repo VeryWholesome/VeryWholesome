@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=FC034E&center=true&width=1200&height=140&lines=IM+WHOLESOME" alt="IM WHOLESOME">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=FC034E&center=true&width=1200&height=140&lines=HI+IM+WHOLESOME" alt="HI IM WHOLESOME">
 </p>
 
   <div style="border: 2px solid #fc034e; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px; background-color: rgba(0, 0, 0, 0.8);">
