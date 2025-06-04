@@ -6,6 +6,6 @@
 
 <div style="border: 2px solid #fc034e; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin: 20px auto; background-color: rgba(0, 0, 0, 0.8); text-align: center;">
   <p style="font-size: 24px; font-weight: 700; color: #fc034e; margin: 0;">
-    Nothing you gotta know Really.
+    Nothing you gotta know really.
   </p>
 </div>
