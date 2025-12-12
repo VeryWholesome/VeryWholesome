@@ -1,6 +1,12 @@
 <p align="center">
+  <img src="https://media.tenor.com/9sF7Qz2cJ4AAAAAC/stronghold-rat.gif" 
+       alt="Stronghold Rat GIF"
+       width="300">
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=17&duration=4967&pause=1000&color=5B03FF&background=000000F6&center=true&vCenter=true&width=435&lines=Dear+Karma%2C+I+really+hate+you+right+now%2C+you+made+your+point." alt="Dear Karma, I really hate you right now, you made your point.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=17&duration=4967&pause=1000&color=5B03FF&background=000000F6&center=true&vCenter=true&width=435&lines=Dear+Karma%2C+I+really+hate+you+right+now%2C+you+made+your+point." alt="">
   </a>
 </p>
 
