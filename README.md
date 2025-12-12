@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.tenor.com/9sF7Qz2cJ4AAAAAC/stronghold-rat.gif" 
-       alt="Stronghold Rat GIF"
+  <img src="https://media.tenor.com/k7KpQ7t6NQ4AAAAC/stronghold-rat.gif" 
+       alt="rat"
        width="300">
 </p>
 
