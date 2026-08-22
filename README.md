@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=17&duration=4967&pause=1000&color=5B03FF&background=000000F6&center=true&vCenter=true&width=435&lines=Dear+Karma%2C+I+really+hate+you+right+now%2C+you+made+your+point." alt="">
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=AF63FF&vCenter=true&width=435&lines=i+want+revange+but+i+don't+want+to+screw+up+my+karma.;what+goes+around+comes+around;there's+ordinary+dust%2C+and+then+there's+stardust." alt="Typing SVG" /></a>"">
   </a>
 </p>
 <div style="border: 2px solid #fc034e; border-radius: 10px; padding: 20px; display: inline-block; width: 80%; margin: 20px auto; background-color: rgba(0, 0, 0, 0.8); text-align: center;">
